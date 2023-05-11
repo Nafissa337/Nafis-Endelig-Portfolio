@@ -3,18 +3,13 @@
 }
 
 h1 {
-    color: aqua;
+    color: red;
     font-family: cursive;
-}
-h2{
-    color: aliceblue;
-    font-family: cursive;
-    
 }
 
 .lyrics {
     text-align: center;
-    color: indianred;
+    color: white;
     background-color: black;
     font-family: cursive;
 }
